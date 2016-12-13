@@ -1,0 +1,17 @@
+Once the user has clicked a particular course this is the template page that is being receved. -> Image 1.jpg;
+
+We have 3 parts: 
+	1. The course heading
+	2. The materials /each represented by a button or similar/
+	3. The content section. This section has 2 screens. Main one and additional one. Main one is always visible. Additional one could be hidden or not. (ref. image 1.b.jpg).
+All of the 5 materials are supposed to be dragged and dropped to the desired section. 
+
+On image 2 we have a represntation of how the user board would look like when slides are being draged on the left hand side, on the additional section. The main section has the video for the lecure.
+The 3 items form the materials that are not in use are shown in the header of the lecture.
+
+
+Image 3 has the video on the left helper section and slides on the righ one. Under the video one could load an additional video or load again same video underneath, which is useful in some cases.	
+
+Note that the section MyNotes is a place for the user to store notes taken during the lecture. There is a an option (right top) for the user to integrate the IDE of choice if needed. (sample image 5.png)
+
+
