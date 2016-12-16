@@ -1,0 +1,64 @@
+Telerik Academy persona:
+
+Primary personas:
+    - 1.1. University students
+    - 1.2. People switching jobs
+    - 1.3. people that have had programming as a hobby
+    - 1.4. seekers of specific course knowldge
+
+Secondary personas:
+    - coming from Telerik School Academy
+    - coming from Telerik Algo Academy
+    - coderDojo atendees
+
+
+primaryPersonas = {
+1.1 = {
+age: 18 - 25,
+job: most have some work experince as unskilled personnel or havgin no experince at all
+latestActivities: fresh out of an education system, fed up with the inflexible education system.
+intention: check if programming is right for him; eager to gain work experince and be part of a team in the IT industry.
+typicalDailyActivities: chat with friends, share emotions, disucuss various aspects of their environemnt(School. univeristy, residential district, clothes, celebs, movies, cinema, concerts)
+familyStatus: not married,
+kids: no,
+freeTime: most of the time is free, some time spent for knowledge gain during exam session or (rarely)lectures,
+interactsMostWith: fellow students, friends,
+skillLevelSoftwareDev : low
+},
+1.2 = {
+age: 25-45
+job: All kinds of jobs rarely technical
+latestActivities: spent the last few months/years thinking over what thrills them most in life and decided to poursue a career as a software devs
+intention: get a job as a software developper
+typicalDailyActivities: busy schedule, deadlines, several projects/initiatives ongoing, commuting to ofis, takes care of kids
+familyStatus: married,
+kids: yes
+freeTime: rarely, mostly during holiday/vacation ,
+interactsMostWith: coworkers, groups of interest, 
+skillLevelSoftwareDev : low to upper-low
+},
+1.3 = {
+age: 15-50
+job: all
+latestActivities: all 
+intention: keep the hobby by expanding personal projects to more complex projects
+typicalDailyActivities: all
+familyStatus: all
+kids: all
+freeTime: some,
+interactsMostWith: all 
+skillLevelSoftwareDev : upper-low - mid 
+},
+1.4 = {
+age: 20-55
+job: specialists/professionals, some are very technical/developers.
+latestActivities: struggling for years/lately with some technologies 
+intention: get comfortable with some technology or specific aspect of software development via a course/academy offering
+typicalDailyActivities: all
+familyStatus: all
+kids: all
+freeTime: decided to make some room for this new technology or feels it was about time to fulfull the gap in this technology ,
+interactsMostWith: eveyone.
+skillLevelSoftwareDev : med - upper-med
+}
+}
