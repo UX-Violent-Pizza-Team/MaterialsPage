@@ -48,8 +48,11 @@
 .video img{
   position: relative;
   left:38%;
-  width: 25%;
-  height: 25%;
+  width: 6em;
+}
+.main-video img{
+  left:40%;
+  width: 8em;
 }
 .main-content{
     background-color: #e1e1e1;
