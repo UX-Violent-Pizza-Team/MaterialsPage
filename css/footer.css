@@ -1,0 +1,43 @@
+footer {
+    background: #000000;
+    color: #ffffff;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+section {
+    padding: 25px 55px;
+}
+
+
+footer a, h4, li {
+    text-decoration: none;
+    list-style-type: none;
+    color: #ffffff;
+}
+
+footer ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+.footerLinkContainer {
+    margin: 20px;
+}
+
+p {
+    color: #818692;
+    font-size: 0.8em;
+    margin: 5px;
+}
+.sotial-media img{
+  width: 41px;
+  height: 42px;
+}
